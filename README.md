@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Favour Udeo
 
 <!--
 **favourudeo/favourudeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a technical content writer who typically writes technical content. I'm passionate about web3, NFTs, blockchains, machine learning, and software. I enjoy breaking down complex web development ideas into technical content writing.
+
+- 👯 I’m looking to collaborate on tech contents 
+- 📫 How to reach me [@FavourUdeo](https://twitter.com/FavourUdeo)
+- 😄 Pronouns: She/her
+
+[My hasnode blog](https://hifavour.hashnode.dev/)
